@@ -11,5 +11,5 @@ Blinky board made for Hack Club's Stasis! Also, my first time designing and maki
 BOM:
 |Name|Purpose                  |Quantity|Total Cost (USD)|Link|Distributor|
 |----|-------------------------|--------|----------------|----|-----------|
-|PCB |To create the blinkyboard|5       |2.00            |    |JLCPCB     |
+|PCB |To create the blinkyboard|5       |2.00            |https://jlcpcb.com/    |JLCPCB     |
 
